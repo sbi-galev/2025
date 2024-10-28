@@ -12,13 +12,13 @@ Submit your abstract [here!](https://forms.office.com/e/hjhrWSYxBg)
 
 ## Important Dates:
 
-- Abstract submission opens: TBD
+- Abstract submission opens: 1 December 2025
 
-- Abstract submission deadline: TBD 
+- Abstract submission deadline: 1 February 2025 
 
-- Registration Opens: TBD 
+- Registration Opens: 1 March 2025
 
-- Registration Deadline: TBD 
+- Registration Deadline:  1 May 2025
 
 - **Workshop: 27 - 30 May 2025**
 
