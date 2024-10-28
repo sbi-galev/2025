@@ -34,7 +34,7 @@ The programme will be released after the registration deadline has passed.
 ## Organizers: 
 [S. Fotopoulou](https://www.sotiriafotopoulou.com) & [C. Lovell](http://www.christopherlovell.co.uk)
 
-grp-sbi-galev-2024@groups.bristol.ac.uk
+grp-sbi-galev@groups.bristol.ac.uk
 
 We expect all participants to abide by the meeting code of conduct, available [here](https://sbi-galev.github.io/2024/coc.html).
 
