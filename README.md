@@ -4,7 +4,9 @@ Simulation based inference is currently being applied to many astrophysical prob
 
 <!-- [![sbi](https://raw.githubusercontent.com/sbi-galev/2024/main/sbi_banner.png)](https://sbi-galev.github.io/2024/) -->
 
-<!--## Abstract Submission-->
+## Abstract Submission
+
+https://forms.office.com/e/hjhrWSYxBg
 
 <!--## Registration-->
 
