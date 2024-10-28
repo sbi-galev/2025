@@ -6,7 +6,7 @@ Simulation based inference is currently being applied to many astrophysical prob
 
 ## Abstract Submission
 
-https://forms.office.com/e/hjhrWSYxBg
+Submit your abstract [here!](https://forms.office.com/e/hjhrWSYxBg)
 
 <!--## Registration-->
 
