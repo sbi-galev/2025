@@ -42,6 +42,7 @@ We expect all participants to abide by the meeting code of conduct, available [h
 * Sotiria Fotopoulou (U Bristol; *co-chair*)
 * Marc Huertas-Company (IAC)
 * Matt Ho (U Columbia)
+* Patricia Iglesias-Navarro (IAC)
 * Niall Jeffrey (UCL)
 * Christoper Lovell (U Portsmouth; *co-chair*)
 * Lucas Makinen (Imperial College)
@@ -55,5 +56,3 @@ We expect all participants to abide by the meeting code of conduct, available [h
 * Grant Stevens
 * Rhys Shaw
 * Sophie Newman
-
-
