@@ -1,6 +1,6 @@
 # Simulation-Based Inference for Galaxy Evolution -- 2025
 
-Simulation based inference is currently being applied to many astrophysical problems which face similar computing barriers. Following the success of our [2024 meeting](https://sbi-galev.github.io/2024/), we aim to bring together both experts in SBI as well as galaxy evolution experts with SBI experience, to discuss problems and solutions faced when applying SBI to problems in galaxy evolution. This will be a small, focused meeting to enable plenty of time for discussion and practical sessions.
+Simulation Based Inference (SBI; see [Cranmer et al. 2020](https://www.pnas.org/doi/full/10.1073/pnas.1912789117)) is currently being applied to many astrophysical problems which face similar computing barriers. Following the success of our [2024 meeting](https://sbi-galev.github.io/2024/), we aim to bring together both experts in SBI as well as galaxy evolution experts with SBI experience, to discuss problems and solutions faced when applying SBI to problems in galaxy evolution. This will be a small, focused meeting to enable plenty of time for discussion and practical sessions.
 
 <!-- [![sbi](https://raw.githubusercontent.com/sbi-galev/2024/main/sbi_banner.png)](https://sbi-galev.github.io/2024/) -->
 
