@@ -1,6 +1,8 @@
-# Simulation-Based Inference for Galaxy Evolution -- 2025
+[![sbi](https://raw.githubusercontent.com/sbi-galev/2025/main/sbi_header.png)](https://sbi-galev.github.io/2025/)
 
 Simulation Based Inference (SBI; see [Cranmer et al. 2020](https://www.pnas.org/doi/full/10.1073/pnas.1912789117)) is currently being applied to many astrophysical problems which face similar computing barriers. Following the success of our [2024 meeting](https://sbi-galev.github.io/2024/), we aim to bring together both experts in SBI as well as galaxy evolution experts with SBI experience, to discuss problems and solutions faced when applying SBI to problems in galaxy evolution. This will be a small, focused meeting to enable plenty of time for discussion and practical sessions.
+
+Check out the poster [here](https://raw.githubusercontent.com/sbi-galev/2025/main/sbi_for_galaxy_evolution_poster_cosmo.pdf).
 
 <!-- [![sbi](https://raw.githubusercontent.com/sbi-galev/2024/main/sbi_banner.png)](https://sbi-galev.github.io/2024/) -->
 
@@ -14,7 +16,7 @@ Submit your abstract [here!](https://forms.office.com/e/hjhrWSYxBg)
 
 - Abstract submission opens: 1 December 2025
 
-- Abstract submission deadline: 1 February 2025 
+- **Abstract submission deadline: 1 February 2025**
 
 - Registration Opens: 1 March 2025
 
@@ -56,3 +58,7 @@ We expect all participants to abide by the meeting code of conduct, available [h
 * Grant Stevens
 * Rhys Shaw
 * Sophie Newman
+
+## Poster
+
+[![sbi](https://raw.githubusercontent.com/sbi-galev/2025/main/sbi4ge.png)](https://raw.githubusercontent.com/sbi-galev/2025/main/sbi_for_galaxy_evolution_poster_cosmo.pdf)
