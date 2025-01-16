@@ -27,7 +27,7 @@ Submit your abstract [here!](https://forms.office.com/e/hjhrWSYxBg)
 ## Location: 
 The meeting will be held in person at the School of Physics in Bristol, United Kingdom.
 
-Further local information is provided [here](https://sbi-galev.github.io/2024/local_info.html).
+Further local information is provided [here](https://sbi-galev.github.io/2025/local_info.html).
 
 ## Programme
 
