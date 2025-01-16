@@ -12,14 +12,14 @@ Bristol has good flight connections to continental Europe. Bristol airport is se
 If you are travelling from USA, the easiest route is to get a connecting flight through Dublin (Air Lingus).
 
 ## Accommodation
-You might want to book hotel accommodation early. There are hotels and airbnb accomodations close by.
+You might want to book hotel accommodation early. There are hotels and airbnb accommodations close by.
 
 A close by hotel is The Berkley Square Hotel. If you are looking for an economical option, you might consider the Premier Inn, which is not listed on Booking.com.
 
 ## Sights
-The landmark of the city is the [Clifton Suspension Bridge](https://cliftonbridge.org.uk/)https://cliftonbridge.org.uk/), built in 1835. You will also see river Avon, which has the second strongest tide in the world, reaching a height difference of 10m, almost everyday. A spot with a nice view can be reaching by using `Bristol BS8 4NW` on your gps.
+The landmark of the city is the [Clifton Suspension Bridge](https://cliftonbridge.org.uk/)https://cliftonbridge.org.uk/), built in 1835. You will also see river Avon, which has the second strongest tide in the world, reaching a height difference of 10m, almost everyday. A spot with a nice view can be reaching by using `Bristol BS8 4NW` on your GPS.
 
-The [floating harbour](https://visitbristol.co.uk/your-visit/areas/harbourside/floating-harbour) is located centrally, and makes for a nice walk or run (~4.5km / 3 miles between the two briges).
+The [floating harbour](https://visitbristol.co.uk/your-visit/areas/harbourside/floating-harbour) is located centrally, and makes for a nice walk or run (~4.5km / 3 miles between the two bridges).
 You'll also get to see [The Matthew](https://matthew.co.uk/), a replica of the Cabot's boat that crossed the Atlantic in 1497, and the SS Great Britain.
 
 Bristol is known for alternative artists, including Massive Attack, Portishead, and Banksy. You can take a [self-guided Banksy walking tour](https://visitbristol.co.uk/things-to-do/banksy-walking-tour-p1354013), the city is dotted with stunning murals from many local artists. 
