@@ -16,9 +16,9 @@ Submit your abstract [here!](https://forms.office.com/e/hjhrWSYxBg)
 
 - Abstract submission opens: 1 December 2025
 
-- **Abstract submission deadline: 1 February 2025**
+- Abstract submission deadline: 1 February 2025
 
-- Registration Opens: 1 March 2025
+- **Registration Opens: 1 March 2025** - [REGISTER HERE](https://shop.bris.ac.uk/conferences-and-events/school-of-physics/sbi-workshops)
 
 - Registration Deadline:  1 May 2025
 
