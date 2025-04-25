@@ -31,7 +31,9 @@ Further local information is provided [here](https://sbi-galev.github.io/2025/lo
 
 ## Programme
 
-The programme will be released after the registration deadline has passed.
+The programme will be finalised after the registration deadline has passed.
+
+[![sbi](https://raw.githubusercontent.com/sbi-galev/2025/main/schedule.png)](https://raw.githubusercontent.com/sbi-galev/2025/main/schedule.png)
 
 ## Organizers: 
 [S. Fotopoulou](https://www.sotiriafotopoulou.com) & [C. Lovell](http://www.christopherlovell.co.uk)
