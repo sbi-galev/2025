@@ -18,8 +18,8 @@ Submit your abstract [here!](https://forms.office.com/e/hjhrWSYxBg)
 
 - Abstract submission deadline: 1 February 2025
 
-- **Registration Opens: 1 March 2025** - [REGISTER HERE](https://shop.bris.ac.uk/conferences-and-events/school-of-physics/sbi-workshops)
-
+- Registration Opens: 1 March 2025
+  
 - Registration Deadline:  1 May 2025
 
 - **Workshop: 27 - 30 May 2025**
@@ -30,8 +30,59 @@ The meeting will be held in person at the School of Physics in Bristol, United K
 Further local information is provided [here](https://sbi-galev.github.io/2025/local_info.html).
 
 ## Programme
+[Download the Abstract Booklet](SBI_2025_abstract_booklet.pdf)
 
 [![sbi](https://raw.githubusercontent.com/sbi-galev/2025/main/schedule.png)](https://raw.githubusercontent.com/sbi-galev/2025/main/schedule.png)
+
+## Participants
+|Name | Affiliation|
+|---|---|
+|	Alex Garcia	|	University of Virginia	|
+|	Alex Saoulis	|	University College London	|
+|	Alice Eleanor Matthews	|	UCL	|
+|	Andrea Sante	|	Liverpool John Moores University	|
+|	Anna Lena Schaible	|	IWR, Heidelberg University	|
+|	Annalisa Pillepich	|	MPIA	|
+|	Christian Kragh Jespersen	|	Princeton University	|
+|	Christina Lindberg	|	Johns Hopkins University	|
+|	Christopher Lovell	|	University of Portsmouth	|
+|	Dhavala Sai Srinivas	|	University of Portsmouth	|
+|	Dimitra Gerolymatou	|	University of Geneva	|
+|	Eduardo Albuquerque Hartmann	|	IAC	|
+|	Francisco Castander	|	ICE-CSIC, IEEC	|
+|	Giulio Fabbian	|	CNRS Institut d'Astrophysique Spatiale	|
+|	Giuseppe Viterbo	|	IWR, Heidelberg University	|
+|	Grant Stevens	|	University of Bristol	|
+|	Haley Bowden	|	University of Arizona	|
+|	Harry Bevins	|	University of Cambridge	|
+|	Ivan Nikolic	|	Scuola Normale Superiore Pisa	|
+|	Ivano Saccheo	|	University of Bristol	|
+|	Jenny Sorce	|	CNRS CRIStAL / IAS	|
+|	Joey Braspenning	|	Max Planck Institute for Astronomy	|
+|	John Wu	|	STScI/JHU	|
+|	Jonah Rose	|	Princeton University	|
+|	Kartheik Iyer	|	Columbia University	|
+|	Luca Tortorelli	|	LMU Munich	|
+|	Lucas Makinen	|	Imperial College London	|
+|	Matthew Ho	|	Columbia University	|
+|	Maximilian von Wietersheim-Kramsta	|	Durham University	|
+|	Nikhil Garuda	|	University of Arizona 	|
+|	Nikolaos Triantafyllou	|	Scuola Normale Superiore (SNS)	|
+|	Nils Candebat	|	INAF- Arcetri Observatory	|
+|	Patricia Iglesias-Navarro	|	Instituto Astrofisico de Canarias	|
+|	Rhys Alfred Shaw	|	University of Bristol	|
+|	Sebastian Trujillo Gomez	|	Heidelberg Institute for Theoretical Studies (HITS)	|
+|	Sherman Khoo	|	University of Bristol	|
+|	Sinan Deger	|	Cambridge University, Institute of Astronomy	|
+|	Sophie Newman	|	University of Portsmouth	|
+|	Sotiria Fotopoulou	|	University of Bristol	|
+|	Steven Ramnichal	|	University of Bath	|
+|	Suchetha Cooray	|	Stanford University	|
+|	Tjitske Starkenburg	|	Northwestern University	|
+|	Tri Nguyen	|	CIERA Northwestern University	|
+|	Viraj Pandya	|	Columbia University	|
+|	Will Handley	|	University of Cambridge	|
+
 
 ## Organizers: 
 [S. Fotopoulou](https://www.sotiriafotopoulou.com) & [C. Lovell](http://www.christopherlovell.co.uk)
