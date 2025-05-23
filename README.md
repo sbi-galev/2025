@@ -31,8 +31,6 @@ Further local information is provided [here](https://sbi-galev.github.io/2025/lo
 
 ## Programme
 
-The programme will be finalised after the registration deadline has passed.
-
 [![sbi](https://raw.githubusercontent.com/sbi-galev/2025/main/schedule.png)](https://raw.githubusercontent.com/sbi-galev/2025/main/schedule.png)
 
 ## Organizers: 
