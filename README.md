@@ -30,7 +30,7 @@ The meeting will be held in person at the School of Physics in Bristol, United K
 Further local information is provided [here](https://sbi-galev.github.io/2025/local_info.html).
 
 ## Programme
-[Download the Abstract Booklet](SBI_2025_abstract_booklet-1.pdf)
+[Download the Abstract Booklet](SBI_2025_abstract_booklet.pdf)
 
 [![sbi](https://raw.githubusercontent.com/sbi-galev/2025/main/schedule.png)](https://raw.githubusercontent.com/sbi-galev/2025/main/schedule.png)
 
