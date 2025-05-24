@@ -35,6 +35,7 @@ Further local information is provided [here](https://sbi-galev.github.io/2025/lo
 [![sbi](https://raw.githubusercontent.com/sbi-galev/2025/main/schedule.png)](https://raw.githubusercontent.com/sbi-galev/2025/main/schedule.png)
 
 ## Participants
+
 |Name | Affiliation|
 |---|---|
 |	Alex Garcia	|	University of Virginia	|
