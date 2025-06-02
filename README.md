@@ -6,6 +6,10 @@ Check out the poster [here](https://raw.githubusercontent.com/sbi-galev/2025/mai
 
 <!-- [![sbi](https://raw.githubusercontent.com/sbi-galev/2024/main/sbi_banner.png)](https://sbi-galev.github.io/2024/) -->
 
+**THANK YOU** to everyone who attended again this year! See you all next year.
+
+![conference picture](20240411_110356.jpg)
+
 ## Abstract Submission
 
 Submit your abstract [here!](https://forms.office.com/e/hjhrWSYxBg)
