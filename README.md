@@ -8,7 +8,7 @@ Check out the poster [here](https://raw.githubusercontent.com/sbi-galev/2025/mai
 
 **THANK YOU** to everyone who attended again this year! See you all next year.
 
-![conference picture](20240411_110356.jpg)
+![conference picture](20250529_124717.jpg)
 
 ## Abstract Submission
 
